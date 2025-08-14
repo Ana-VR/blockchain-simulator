@@ -9,6 +9,7 @@ blockchain-simulator
 ````
 
 ### Link de la app
-<[https://reto-blockchain.streamlit.app/](https://blockchain-simulator.streamlit.app/)>
+[https://reto-blockchain.streamlit.app/](https://blockchain-simulator.streamlit.app/)
+
 
 
